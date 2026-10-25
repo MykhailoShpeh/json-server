@@ -391,7 +391,7 @@
       "url": {
         "wikipedia": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83-25",
         "main": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sukhoi_Su-25SM_%C2%ABRoman_Filipov%C2%BB_05.jpg",
-        "promotional": "https://lh3.googleusercontent.com/pw/AP1GczO8jD-mHi9beAi08EtchDq7UWaoJbXCMaGZ6OHulXsFEZLP-_IRMaEtDuFZu4c1rmU0TiF_DjlfQMOK-Ac6uhlgRe8qe5LYmE_2njF4NFyZ7WwyFbvb6KXHo5NxAZguxz83Q76r7Ebk0XHpCoFAOfFT=w1298-h935-s-no-gm?authuser=0"
+        "promotional": "https://lh3.googleusercontent.com/pw/AP1GczP7vqKpOvqlaNquH-uuUHVi3kAPfMvHBgaXBntV1ZwzoAvZeQgjnJlqJnZA2-lAu2ubn5jxor2geATSaR0A1mFpls51nKm6_OPPrXOEN2YvE52n2EM7Sl4ssIkvsAHyogJmAdT_xd_pTLFKhcDKecX0=w1084-h1838-s-no-gm?authuser=0"
       },
       "manufacturing": {
         "start": "1978-01-01T00:00:00",
@@ -1461,7 +1461,7 @@
       "url": {
         "wikipedia": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83-25",
         "main": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sukhoi_Su-25SM_%C2%ABRoman_Filipov%C2%BB_05.jpg",
-        "promotional": "https://lh3.googleusercontent.com/pw/AP1GczO8jD-mHi9beAi08EtchDq7UWaoJbXCMaGZ6OHulXsFEZLP-_IRMaEtDuFZu4c1rmU0TiF_DjlfQMOK-Ac6uhlgRe8qe5LYmE_2njF4NFyZ7WwyFbvb6KXHo5NxAZguxz83Q76r7Ebk0XHpCoFAOfFT=w1298-h935-s-no-gm?authuser=0"
+        "promotional": "https://lh3.googleusercontent.com/pw/AP1GczP7vqKpOvqlaNquH-uuUHVi3kAPfMvHBgaXBntV1ZwzoAvZeQgjnJlqJnZA2-lAu2ubn5jxor2geATSaR0A1mFpls51nKm6_OPPrXOEN2YvE52n2EM7Sl4ssIkvsAHyogJmAdT_xd_pTLFKhcDKecX0=w1084-h1838-s-no-gm?authuser=0"
       },
       "manufacturing": {
         "start": "1978-01-01T00:00:00",
@@ -2215,8 +2215,22 @@
       "userAvatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
       "indicesSelectedModels": [],
       "id": "gaNmiZ9TDb0"
+    },
+    {
+      "userName": "User 8",
+      "userEmail": "user8@gmail.com",
+      "userPassword": "u8",
+      "userExperience": "discipline",
+      "userAge": "",
+      "userNickName": "piloswine",
+      "userAvatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+      "indicesSelectedModels": [
+        "0006",
+        "0009",
+        "0011"
+      ],
+      "id": "zLV-zQ515u0"
     }
   ],
-  "usersAircrafts": [],
-  "$schema": "./node_modules/json-server/schema.json"
+  "usersAircrafts": []
 }
